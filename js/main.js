@@ -1,8 +1,8 @@
 /* 
-This page made by : Youssef Abdelzaher;
-This page made in : 1day;
-Mr.Youssef Abdelzaher tell you wellcome in his page
+    Web developer : Youssef Abdelzaher
+    Web developer website url : https://youssef-abdelzaher.netlify.app/
 */
+
 /*global $, alert, console*/
 new WOW().init();
 $('html').niceScroll({
